@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CharlesStover/react-native-web-view.git"
+    "url": "git+https://github.com/8ballsnl/react-native-web-view.git"
   },
   "scripts": {
     "build": "webpack",
